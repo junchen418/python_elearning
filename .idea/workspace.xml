@@ -2,20 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="48406db9-7d61-4ab6-b077-b643b1579ffa" name="Default Changelist" comment="学习函数的定义">
-      <change afterPath="$PROJECT_DIR$/elearning_insert-users/insertUsers/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/elearning_insert-users/insertUsers/insert_users.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/elearning_insert-users/insertUsers/interface_msg.conf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/elearning_insert-users/insertUsers/read_conf.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/elearning_insert_users/insertUsers/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/elearning_insert_users/insertUsers/insert_users.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/elearning_insert_users/insertUsers/interface_msg.conf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/elearning_insert_users/insertUsers/read_conf.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/insert-users/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/insert-users/insert_users.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/insert-users/interface_msg.conf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/insert-users/read_conf.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Core/Get_token/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Core/Get_token/get_token.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Core/Patent_Api_pressure/DataProcess.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Core/Patent_Api_pressure/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Core/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rims-boc/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rims-boc/tag_data_verify.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rims-boc/zone_data_verify.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Function/For_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Function/For_1.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,11 +20,17 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/python_elearning$DataProcess.coverage" NAME="DataProcess Coverage Results" MODIFIED="1548057645546" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Core/Patent_Api_pressure" />
+    <SUITE FILE_PATH="coverage/python_elearning$readHello.coverage" NAME="readHello Coverage Results" MODIFIED="1548052413286" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Core/Patent_Api_pressure" />
     <SUITE FILE_PATH="coverage/python_elearning$For_1.coverage" NAME="For_1 Coverage Results" MODIFIED="1545824210684" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Function" />
+    <SUITE FILE_PATH="coverage/python_elearning$tag_data_verify.coverage" NAME="tag_data_verify Coverage Results" MODIFIED="1547102904171" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/rims-boc" />
     <SUITE FILE_PATH="coverage/python_elearning$insert_users.coverage" NAME="insert_users Coverage Results" MODIFIED="1546586512282" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/elearning_insert-users/insertUsers" />
     <SUITE FILE_PATH="coverage/python_elearning$insert_users__1_.coverage" NAME="insert_users (1) Coverage Results" MODIFIED="1546587157555" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/elearning_insert_users/insertUsers" />
     <SUITE FILE_PATH="coverage/python_elearning$Function_1.coverage" NAME="Function_1 Coverage Results" MODIFIED="1545363194380" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Function" />
+    <SUITE FILE_PATH="coverage/python_elearning$get_token.coverage" NAME="get_token Coverage Results" MODIFIED="1548238510180" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Core/Get_token" />
     <SUITE FILE_PATH="coverage/python_elearning$smo.coverage" NAME="smo Coverage Results" MODIFIED="1546046357949" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python3-in-one-pic/notebooks/MyModule/SubModuleOne" />
+    <SUITE FILE_PATH="coverage/python_elearning$.coverage" NAME="区域热力图数据统计校验 Coverage Results" MODIFIED="1546854190135" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/rims-boc" />
+    <SUITE FILE_PATH="coverage/python_elearning$zone_data_verify.coverage" NAME="zone_data_verify Coverage Results" MODIFIED="1546923088008" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/rims-boc" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -41,37 +43,35 @@
     <option name="HIDDEN_KINDS">
       <set />
     </option>
-    <expand />
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="boc-rims" type="feb32156:DbDataSourceImpl" />
+      </path>
+    </expand>
     <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="python_elearning" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/elearning_insert_users/insertUsers/read_conf.py">
+        <entry file="file://$PROJECT_DIR$/Core/Patent_Api_pressure/DataProcess.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <folding>
-                <element signature="e#0#19#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/elearning_insert_users/insertUsers/insert_users.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="44" />
-              <folding>
-                <element signature="e#0#15#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="378">
+              <caret line="19" column="3" selection-start-line="19" selection-start-column="3" selection-end-line="19" selection-end-column="3" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/elearning_insert_users/insertUsers/interface_msg.conf">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/Core/Get_token/get_token.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -94,14 +94,23 @@
         <option value="$PROJECT_DIR$/insert-users/insert_users.py" />
         <option value="$PROJECT_DIR$/elearning_insert-users/insertUsers/insert_users.py" />
         <option value="$PROJECT_DIR$/elearning_insert_users/insertUsers/insert_users.py" />
+        <option value="$PROJECT_DIR$/rims-boc/区域热力图数据统计校验.py" />
+        <option value="$PROJECT_DIR$/rims-boc/zone_data_verify.py" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/af8cd8d5-43b6-4258-92b7-0c34bbf0dae0/console.sql" />
+        <option value="$PROJECT_DIR$/rims-boc/tag_data_verify.py" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/dd0b0919-6178-4145-8790-1fb0f6986acb/console.sql" />
+        <option value="$PROJECT_DIR$/Core/Patent_Api_pressure/readHello.py" />
+        <option value="$PROJECT_DIR$/Core/Patent_Api_pressure/DataProcess.py" />
+        <option value="$PROJECT_DIR$/Core/Get_token/get_token.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="215" />
-    <option name="y" value="32" />
-    <option name="width" value="1627" />
-    <option name="height" value="959" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-244" />
+    <option name="y" value="199" />
+    <option name="width" value="1918" />
+    <option name="height" value="711" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -119,13 +128,13 @@
             <path>
               <item name="python_elearning" type="b2602c69:ProjectViewProjectNode" />
               <item name="python_elearning" type="462c0819:PsiDirectoryNode" />
-              <item name="elearning_insert_users" type="462c0819:PsiDirectoryNode" />
+              <item name="Core" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="python_elearning" type="b2602c69:ProjectViewProjectNode" />
               <item name="python_elearning" type="462c0819:PsiDirectoryNode" />
-              <item name="elearning_insert_users" type="462c0819:PsiDirectoryNode" />
-              <item name="insertUsers" type="462c0819:PsiDirectoryNode" />
+              <item name="Core" type="462c0819:PsiDirectoryNode" />
+              <item name="Get_token" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -135,11 +144,13 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="postgresql&#10;redshift" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="D:/学习资料/python7_selenium_PO_最终版" />
+    <property name="database.console.LAST_STATE" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/Damon_interface01" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -161,8 +172,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.insert_users (1)">
-    <configuration name="For_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.get_token">
+    <configuration name="DataProcess" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_elearning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -170,12 +181,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Function" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Core/Patent_Api_pressure" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Function/For_1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Core/Patent_Api_pressure/DataProcess.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -184,7 +195,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Function_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="get_token" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_elearning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -192,12 +203,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Function" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Core/Get_token" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Function/Function_1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Core/Get_token/get_token.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -206,7 +217,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="insert_users (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="readHello" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_elearning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -214,12 +225,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/elearning_insert_users/insertUsers" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Core/Patent_Api_pressure" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/elearning_insert_users/insertUsers/insert_users.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Core/Patent_Api_pressure/readHello.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -228,7 +239,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="insert_users" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="tag_data_verify" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_elearning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -236,12 +247,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/elearning_insert-users/insertUsers" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/rims-boc" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/elearning_insert-users/insertUsers/insert_users.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/rims-boc/tag_data_verify.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -250,7 +261,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="smo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="zone_data_verify" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_elearning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -258,12 +269,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python3-in-one-pic/notebooks/MyModule/SubModuleOne" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/rims-boc" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python3-in-one-pic/notebooks/MyModule/SubModuleOne/smo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/rims-boc/zone_data_verify.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -274,11 +285,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.insert_users (1)" />
-        <item itemvalue="Python.insert_users" />
-        <item itemvalue="Python.smo" />
-        <item itemvalue="Python.For_1" />
-        <item itemvalue="Python.Function_1" />
+        <item itemvalue="Python.get_token" />
+        <item itemvalue="Python.DataProcess" />
+        <item itemvalue="Python.readHello" />
+        <item itemvalue="Python.tag_data_verify" />
+        <item itemvalue="Python.zone_data_verify" />
       </list>
     </recent_temporary>
   </component>
@@ -296,7 +307,16 @@
       <workItem from="1545360864113" duration="7522000" />
       <workItem from="1545628352378" duration="13463000" />
       <workItem from="1546077198236" duration="720000" />
-      <workItem from="1546579536233" duration="3615000" />
+      <workItem from="1546579536233" duration="4867000" />
+      <workItem from="1546593837970" duration="49000" />
+      <workItem from="1546848842686" duration="24119000" />
+      <workItem from="1547085365370" duration="7488000" />
+      <workItem from="1547445597825" duration="1430000" />
+      <workItem from="1547692805039" duration="4100000" />
+      <workItem from="1548050523252" duration="651000" />
+      <workItem from="1548052236624" duration="2989000" />
+      <workItem from="1548062327162" duration="2767000" />
+      <workItem from="1548299764449" duration="2357000" />
     </task>
     <task id="LOCAL-00001" summary="学习函数的定义">
       <created>1545355719603</created>
@@ -323,7 +343,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28203000" />
+    <option name="totallyTimeSpent" value="75405000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -336,29 +356,29 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1015" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15724947" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12100213" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" weight="0.32995737" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" visible="true" weight="0.32672113" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49946696" visible="true" weight="0.2917153" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32905483" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32905483" />
-      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50095725" side_tool="true" weight="0.4107366" />
-      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49904275" weight="0.40948814" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49904275" weight="0.43640608" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.32905483" />
+      <window_info active="true" anchor="bottom" id="Database Console" order="13" visible="true" weight="0.4982497" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="SciView" order="3" weight="0.32995737" />
-      <window_info anchor="right" id="Database" order="4" weight="0.32995737" />
+      <window_info anchor="right" id="Database" order="4" weight="0.27025586" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -381,6 +401,17 @@
     </ignored-roots>
     <MESSAGE value="学习函数的定义" />
     <option name="LAST_COMMIT_MESSAGE" value="学习函数的定义" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../untitled/venv/Lib/site-packages/selenium/webdriver/__init__.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/python3-in-one-pic/py3 in one pic.png" />
@@ -427,13 +458,174 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/elearning_insert-users/insertUsers/read_conf.py">
+    <entry file="file://$PROJECT_DIR$/elearning_insert_users/insertUsers/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/elearning_insert_users/insertUsers/read_conf.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
+          <caret line="12" column="35" lean-forward="true" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/elearning_insert_users/insertUsers/insert_users.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="249">
+          <caret line="44" selection-start-line="44" selection-end-line="44" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/elearning_insert_users/insertUsers/interface_msg.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/af8cd8d5-43b6-4258-92b7-0c34bbf0dae0/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="35" selection-start-column="35" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.3/system/python_stubs/-1748810655/psycopg2/_psycopg/cursor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="55" column="8" selection-start-line="55" selection-start-column="8" selection-end-line="55" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../untitled/venv/Lib/site-packages/psycopg2/extras.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="316" column="51" selection-start-line="316" selection-start-column="51" selection-end-line="316" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://dd0b0919-6178-4145-8790-1fb0f6986acb/database/rims/schema/public/table/dbinfo">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+          <column-attributes>
+            <column name="ctid" enabled="false" />
+          </column-attributes>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://dd0b0919-6178-4145-8790-1fb0f6986acb/database/rims/schema/stat/table/patent_count_apdt">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+          <column-attributes>
+            <column name="conditions" languageId="JSON" />
+          </column-attributes>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://dd0b0919-6178-4145-8790-1fb0f6986acb/database/rims/schema/stat/table/patent_count_pbdt">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+          <column-attributes>
+            <column name="conditions" languageId="JSON" />
+          </column-attributes>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://dd0b0919-6178-4145-8790-1fb0f6986acb/database/rims/schema/stat/table/patent_claim_pbdt">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+          <column-attributes>
+            <column name="conditions" languageId="JSON" />
+          </column-attributes>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://dd0b0919-6178-4145-8790-1fb0f6986acb/database/rims/schema/stat/table/company_statistics">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://dd0b0919-6178-4145-8790-1fb0f6986acb/database/rims/schema/stat/table/company_summary">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+          <column-attributes>
+            <column name="ctid" enabled="false" />
+          </column-attributes>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://dd0b0919-6178-4145-8790-1fb0f6986acb/database/rims/schema/stat/table/companies">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.3/system/python_stubs/-1748810655/time.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="207" column="4" selection-start-line="207" selection-start-column="4" selection-end-line="207" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3/time.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1533">
+          <caret line="74" column="21" selection-start-line="74" selection-start-column="21" selection-end-line="74" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rims-boc/tag_data_verify.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1008">
+          <caret line="48" selection-start-line="48" selection-end-line="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://dd0b0919-6178-4145-8790-1fb0f6986acb/database/rims/schema/stat/table/suzhou_patent">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../untitled/venv/Lib/site-packages/selenium/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rims-boc/zone_data_verify.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="19" column="38" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Core/Patent_Api_pressure/readHello.py" />
+    <entry file="file://$PROJECT_DIR$/elearning_insert-users/insertUsers/read_conf.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
           <caret line="12" column="10" lean-forward="true" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/dd0b0919-6178-4145-8790-1fb0f6986acb/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="13" column="62" selection-start-line="13" selection-start-column="62" selection-end-line="13" selection-end-column="62" />
         </state>
       </provider>
     </entry>
@@ -444,30 +636,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/elearning_insert_users/insertUsers/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/elearning_insert_users/insertUsers/read_conf.py">
+    <entry file="file://$PROJECT_DIR$/../untitled/venv/Lib/site-packages/selenium/webdriver/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="-73">
           <folding>
-            <element signature="e#0#19#0" expanded="true" />
+            <element signature="e#788#847#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/elearning_insert_users/insertUsers/insert_users.py">
+    <entry file="file://$PROJECT_DIR$/Core/Patent_Api_pressure/DataProcess.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="44" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="378">
+          <caret line="19" column="3" selection-start-line="19" selection-start-column="3" selection-end-line="19" selection-end-column="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/elearning_insert_users/insertUsers/interface_msg.conf">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/Core/Get_token/get_token.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
